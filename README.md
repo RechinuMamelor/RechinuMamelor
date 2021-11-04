@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bogdan-Dan Moldovan
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, C++, SQL and others
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me moldovanbogdan15@gmail.com
 
 <!---
